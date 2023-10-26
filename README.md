@@ -5,8 +5,6 @@ This project is a proof of concept that demonstrates a chat communication system
 ## Table of Contents
 - [Introduction](#messenger-chat-proof-of-concept)
 - [Features](#features)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
 - [Demonstration](#demonstration)
 - [Contributing](#contributing)
 - [License](#license)
@@ -20,7 +18,7 @@ This project is a proof of concept that demonstrates a chat communication system
 - Reactive communication where the sender sends a message, and the receiver responds.
 - Handling delays and waiting for the receiver to respond.
 
-Demonstration
+## Demonstration
 
 
 https://github.com/geetgobindsingh/HandlersDemo/assets/8836820/efb92c9f-cd7e-41ac-88bc-f9f21071ab58
