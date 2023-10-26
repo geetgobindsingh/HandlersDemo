@@ -1,0 +1,25 @@
+
+E
+java:S3740b"/Provide the parametrized type for this generic.(ØÍ
+b
+java:S1192B"LDefine a constant instead of duplicating this literal "sender_data" 3 times.(œè—È
+H
+java:S1199k"-Extract this nested code block into a method.(Œ˜¹ûÿÿÿÿ
+C
+java:S1199"-Extract this nested code block into a method.(Èªğf
+D
+java:S1199 "-Extract this nested code block into a method.(ûå¥
+Q
+java:S1141†"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+k	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øš‘ùÿÿÿÿ
+\
+java:S2142R"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+O
+java:S1854„"8Remove this useless assignment to local variable "data".(‡¹èá
+<	java:S131j""Add a default case to this switch.(Ñ¯áÆÿÿÿÿÿ
+\
+java:S2142n"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+]
+java:S2142ˆ"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+@
+java:S1481„")Remove this unused "data" local variable.(‡¹èá

@@ -1,0 +1,33 @@
+
+d
+java:S1192U"NDefine a constant instead of duplicating this literal "receiver_data" 3 times.(¿«ğ€
+H
+java:S1199k"-Extract this nested code block into a method.(Œ˜¹ûÿÿÿÿ
+I
+java:S1199†"-Extract this nested code block into a method.(¸©¼Šúÿÿÿÿ
+D
+java:S1199¤"-Extract this nested code block into a method.(ûå¥
+Q
+java:S1141‹"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+k	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍŞ ˆşÿÿÿÿ
+k	java:S117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼û½¥şÿÿÿÿ
+w
+java:S1128"\Remove this unused import 'com.geet.interpolator.handlersdemo.MainActivity.MSG_FROM_SENDER'.(‰êòÇşÿÿÿÿ
+R
+java:S1128	"7Remove this unused import 'android.os.RemoteException'.(ªÜş¨şÿÿÿÿ
+z
+java:S1450"_Remove the "mReceiverHandler" field and declare it as a local variable in the relevant methods.(Êñ¬°şÿÿÿÿ
+y
+java:S1450"^Remove the "mReceiverThread" field and declare it as a local variable in the relevant methods.(¬¹Øşÿÿÿÿ
+\
+java:S2142P"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+O
+java:S1854‰"8Remove this useless assignment to local variable "data".(ï¡ñ
+<	java:S131j""Add a default case to this switch.(Ñ¯áÆÿÿÿÿÿ
+\
+java:S2142n"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+]
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+@
+java:S1481‰")Remove this unused "data" local variable.(ï¡ñ
+W	java:S125"<This block of commented-out lines of code should be removed.(•¬¿Êøÿÿÿÿ

@@ -1,0 +1,14 @@
+
+f
+java:S13016"KReplace this "switch" statement by "if" statements to increase readability.(Ñ¯áÆÿÿÿÿÿ
+H
+java:S11997"-Extract this nested code block into a method.(¢Œåşÿÿÿÿ
+C
+java:S1199?"-Extract this nested code block into a method.(ùóÚ
+n
+java:S1450"XRemove the "mReceiver" field and declare it as a local variable in the relevant methods.(«Áäµ
+q
+java:S1450"VRemove the "mSender" field and declare it as a local variable in the relevant methods.(ûÌ¸¦øÿÿÿÿ
+t
+java:S1450"YRemove the "mUIHandler" field and declare it as a local variable in the relevant methods.(áÁ…©ÿÿÿÿÿ
+<	java:S1316""Add a default case to this switch.(Ñ¯áÆÿÿÿÿÿ
